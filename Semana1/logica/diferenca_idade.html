@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      var minhaIdade = 35;
+      var idadeJuliana = 33;
+
+      function pulaLinha() {
+        document.write('<br>', '<br>');
+      }
+
+      function mostra(frase) {
+        document.write(frase);
+        pulaLinha();
+      }
+
+      function diferencaIdade(idade1, idade2) {
+        return idade1 - idade2;
+      }
+
+      mostra('<h1>Bem-vindos ao calculo de diferença de idade</h1>');
+      mostra('<p>Este é um simples programa</p>');
+      mostra(
+        'A diferença de idade entre mim e a Juliana é de ' +
+          diferencaIdade(minhaIdade, idadeJuliana) +
+          ' anos.'
+      );
+    </script>
+  </body>
+</html>
