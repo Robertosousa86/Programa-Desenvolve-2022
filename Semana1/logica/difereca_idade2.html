@@ -9,7 +9,7 @@
   <body>
     <script>
       function pulaLinha() {
-        document.write('<br>');
+        document.write('<br>', '<hr>', '<br>');
       }
 
       function mostra(frase) {
@@ -18,9 +18,9 @@
       }
 
       var ano = 2022;
-      mostra('Eu nasci em : ' + (ano - 35));
-      mostra('Adriano nasceu em : ' + (ano - 26));
-      mostra('Paulo nasceu em : ' + (ano - 32));
+      mostra('<big>Eu nasci em : ' + (ano - 35) + '</big>');
+      mostra('<big>Adriano nasceu em : ' + (ano - 26) + '</big>');
+      mostra('<big>Paulo nasceu em : ' + (ano - 32) + '</big>');
     </script>
   </body>
 </html>
