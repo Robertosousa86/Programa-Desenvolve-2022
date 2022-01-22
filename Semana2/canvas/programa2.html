@@ -19,10 +19,13 @@
         pincel.strokeStyle = 'black';
         pincel.strokeRect(x, y, 50, 50);
       }
+      
+      var x = 0;
 
-      desenhaQuadrado(0, 0, 'green');
-      desenhaQuadrado(50, 0, 'green');
-      desenhaQuadrado(100, 0, 'green');
+      while (x < 600) {
+        desenhaQuadrado(x, 0, 'green');
+        x = x + 50;
+      }
     </script>
   </body>
 </html>
