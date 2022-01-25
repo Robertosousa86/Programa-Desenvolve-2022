@@ -25,3 +25,7 @@ Esse processo é normalmente feito em conjunto com uma Content Delivery Network 
 ## Linguagens cache-friendly
 
 Algumas linguagens que oferecem um controle maior na alocação de memória, como C e C++, podem ter o tempo de execução de seus programas influenciados pela memória cache. Ou seja, só mudando a ordem de execução de alguns trechos de código, ele pode ficar bem rápido ou lento. Programas que conseguem otimizar o máximo isso são chamados de cache-friendly ou bons para o cache. De qualquer forma, não são todas as implementações de linguagens que precisam desse cuidado com o cache. O Node.js, uma implementação de JavaScript, faz várias otimizações que quase mascaram esse tipo de coisa. Mesmo assim, é algo importante para se ter em mente ao longo de uma carreira de programação.
+
+#### Fonte:
+
+- Alura

@@ -14,3 +14,7 @@ Você pode encontrar essas unidades em conjunto com prefixos SI como k(kilo, ou 
 ```
 
 A diferença entre maiúsculas e minúsculas pode passar despercebida, mas é algo bem importante!
+
+#### Fonte:
+
+- Alura

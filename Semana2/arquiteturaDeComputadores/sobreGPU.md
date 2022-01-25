@@ -7,3 +7,7 @@ Além disso, esse tipo de unidade de processamento é muito usado hoje em dia pa
 Para juntar tudo isso, vale a pena ouvir o podcast do Hipsters Ponto Tech que eles comentam a importância das placas de vídeo para ciência de dados e cloud computing.
 
 Por fim, para o ramo de machine learning, foi criada uma nova unidade para acelerar a computação: a TPU (Tensor Processing Unit ou Unidade de Processamento de Tensores). Elas aumentam muito a performance nessas aplicações, em relação à GPU, e é usada em grandes empresas de tecnologia. Você pode conferir a ideia no vídeo da Google sobre TPU (em inglês com legendas traduzidas para português pelo YouTube). Trata-se de uma tecnologia bem complexa, então não precisa se preocupar em como ela funciona internamente.
+
+#### Fonte:
+
+- Alura

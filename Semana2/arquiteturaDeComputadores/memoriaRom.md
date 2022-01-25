@@ -7,3 +7,7 @@ Esse tipo de dado inicial e crucial para o funcionamento do computador é locali
     Atenção: um HD ou SSD não são ROMs! Essa é uma confusão comum, principalmente porque todos são não-voláteis.
 
 Dessa forma, quando o computador é inicializado, as primeiras informações que ele irá buscar estarão na ROM, por exemplo, a BIOS ( Basic Input/Output System ou sistema básico de entrada/saída). Elas vão ajudá-lo a identificar os dispositivos conectados, como o HD, e carregar o sistema operacional.
+
+#### Fonte:
+
+- Alura
